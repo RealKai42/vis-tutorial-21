@@ -1,0 +1,14 @@
+body {
+  background: #f0f8ea;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+}
+
+.header {
+  height: 56px;
+  background: #e54b4b;
+  line-height: 56px;
+}
+
+
